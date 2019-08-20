@@ -1,0 +1,99 @@
+@charset "BIG5";
+body
+{
+    background-color:#e3d7ff;
+}
+
+#top{
+	color:#00006e;
+	background-color:#7a89c2;
+	width:800px;
+	height:100px;
+	line-height:100px;
+	text-align:center;
+	font-size:75px;
+
+}
+.top{
+	color:#00006e;
+	background-color:#7a89c2;
+	width:800px;
+	height:100px;
+	line-height:100px;
+	text-align:center;
+	font-size:75px;
+
+}
+.bigbody{
+	width:800px;
+	height:600px;
+	background-color:#afa2ff;
+	margin: 0 auto; 
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-top:-300px;
+	margin-left:-400px;
+	z-index:-1;
+}
+.left{
+	background-color:#72788d;
+	float:left;
+	width:100px;
+	height:500px;
+	text-align:  center;
+}
+
+.right{
+	
+	background-color:#636b61;
+	float:right;
+	width:100px;
+	height:500px;
+	
+	}
+.inside{
+	background-color:#afa2ff;
+	width:600px;
+	height:500px;
+	float:center;
+	
+	
+	
+}
+.l
+{
+	font-size:40px;
+	color:#00006e;
+	text-align:center;
+	
+}
+
+
+/*°ò¥»ª©«¬
+<div class=bigbody>
+		<div class=top>
+		
+		</div>
+			<div class=left>
+			
+			</div>
+			<div class=right>
+			
+			</div>
+			<div class=inside>
+				
+			</div>
+			
+	</div>
+
+
+
+
+
+*/
+
+
+	
+	
+	

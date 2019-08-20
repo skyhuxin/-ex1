@@ -1,0 +1,124 @@
+
+@charset "BIG5";
+body
+{
+    background-color:#ffffff;
+}
+
+.top{
+	color:#00006e;
+	background-color:#ffffffff;
+	width:1200px;
+	height:150px;
+	text-align:center;
+	
+
+}
+.bigbody{
+	width:1160px;
+	height:700px;
+	background-color:#ffffff;
+	margin: 0 auto; 
+	position:absolute;
+	left:50%;
+	
+	
+	margin-left:-550px;
+	z-index:-1;
+}
+.left{
+	background-color:#e5989b;
+	float:left;
+	width:200px;
+	height:500px;
+}
+
+.right{
+	
+	background-color:#e5989b;
+	float:right;
+	width:222px;
+	height:500px;
+	}
+.inside{
+	
+	width:1000px;
+	height:500px;
+	float:center;
+	valign:top;
+	
+	
+}
+.foxshop{
+	
+	width:331px;
+	height:101px;
+	float:left;
+}
+.in{
+width:1100px;
+height:10px;
+float:left;
+}
+.soin
+{	
+	width:850px;
+	height:100px;
+	float:right;
+}
+.tag{
+	background-image: linear-gradient(to top, #7a89c2 0%, #fbc2eb 100%);
+	width:100px;
+	height:25px;
+}
+.l{
+	width:221px;
+	height:361px;
+	
+	
+	
+	
+}
+.s{
+	
+	width:251px;
+	height:166px;
+	
+	
+	
+}
+/*
+<link rel="icon" href="pic/2.ico" type="image/x-icon" >
+<link rel="stylesheet" href="CSS/shop.css" type="text/css">
+
+
+*/
+
+
+/*°ò¥»ª©«¬
+<div class=bigbody>
+		<div class=top>
+		
+		</div>
+			<div class=left>
+			
+			</div>
+			<div class=right>
+			
+			</div>
+			<div class=inside>
+				
+			</div>
+			
+	</div>
+
+
+
+
+
+*/
+
+
+	
+	
+	
